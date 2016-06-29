@@ -24,20 +24,8 @@ npm install -g bower
 Installation
 -----
 
-1. Download Repo and unzip to any path
-2. Go to the selected path on command line. e.g.
-```sh
-C:\\dnnsprsns\\real-time-map>
-```
-3. install npm modules
 ```sh
 npm install
-```
-4. install bower components
-```sh
 bower install
-```
-4. run application
-```sh
 node service.js
 ```
